@@ -6,13 +6,15 @@
 <h4 align="center">| 1. Sungkyunkwan University, South Korea | 2. ANU, Australia | 3. Tech University of Korea, South Korea |</h4> 
 <h4 align="center">| *Corresponding Author |</h4> <br>
 
+### Under Construction...
+
 ----------
-## HazeSpace2M Dataset
+### LoLI-Street Dataset
 ![](./assets/HazeSpace2M.jpg)
-## Haze Aware Dehazing
+## Proposed: TriFuse
 ![](./assets/proposedFramework.jpg)
 
-## Dependencies
+### Dependencies
 ```
 pip install -r requirements.txt
 ````
