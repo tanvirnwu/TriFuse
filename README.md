@@ -8,8 +8,6 @@
 <br><br>
 
 
-### Dataset Download Link: https://drive.google.com/file/d/1WkuIGlGS9IyXfT3O5GzEowSKvAVveT10/view?usp=sharing
-
 ## Dataset Download
 1. **Kaggle:**  
 2. **Google Drive:** https://drive.google.com/file/d/1WkuIGlGS9IyXfT3O5GzEowSKvAVveT10/view?usp=sharing
