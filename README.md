@@ -21,3 +21,21 @@
 ```
 pip install -r requirements.txt
 ````
+
+
+
+
+## Cite this Paper
+
+If you find our work useful in your research, please consider citing our paper:
+
+```bibtex
+@misc{islam2024lolistreetbenchmarkinglowlightimage,
+      title={LoLI-Street: Benchmarking Low-Light Image Enhancement and Beyond}, 
+      author={Md Tanvir Islam and Inzamamul Alam and Simon S. Woo and Saeed Anwar and IK Hyun Lee and Khan Muhammad},
+      year={2024},
+      eprint={2410.09831},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.09831}, 
+}
