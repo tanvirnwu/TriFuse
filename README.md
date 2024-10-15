@@ -3,11 +3,17 @@
 
 
 <h4 align="center">Md Tanvir Islam<sup> 1</sup>, Inzamamul Alam<sup> 1</sup>, Simon S. Woo<sup> 1, *</sup>, Saeed Anwar<sup> 2</sup>, IK Hyun Lee<sup> 3</sup>, Khan Muhammad<sup> 1, *</sup></h4>
-<h4 align="center">| 1. Sungkyunkwan University, South Korea | 2. The Australian National University, Australia | 3. Tech University of Korea, South Korea |</h4> 
+<h4 align="center">| 1. Sungkyunkwan University, South Korea | 2. The Australian National University, Australia | 3. Tech University of Korea, South Korea |</h4>
+<h4 align="center">| *Corresponding Author |</h4> <br>
 <br><br>
 
 
 ### Dataset Download Link: https://drive.google.com/file/d/1WkuIGlGS9IyXfT3O5GzEowSKvAVveT10/view?usp=sharing
+
+## Dataset Download
+1. **Kaggle:**  
+2. **Google Drive:** https://drive.google.com/file/d/1WkuIGlGS9IyXfT3O5GzEowSKvAVveT10/view?usp=sharing
+
 
 ### Code is coming soon.
 
@@ -23,7 +29,7 @@ pip install -r requirements.txt
 ````
 
 
-
+![Visitor Count](https://komarev.com/ghpvc/?username=tanvirnwu&repo=HazeSpace2M&style=for-the-badge&label=Project%20Views)
 
 ## Cite this Paper
 
