@@ -13,7 +13,9 @@
 2. **Google Drive:** https://drive.google.com/file/d/1xfATFqrYvMU5a4eLJ5iMi7PVts1x3mmi/view?usp=sharing
 
 
-### Code is coming soon.
+### LOLI Code is updated.
+
+### model will be uploaded soon.
 
 ----------
 ### LoLI-Street Dataset
