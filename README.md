@@ -21,7 +21,7 @@
 ### LoLI-Street Dataset
 ![](./assets/HazeSpace2M.jpg)
 ## Proposed: TriFuse
-![](./assets/proposedFramework.jpg)
+![](./assets/ProposedModel 2-04.jpg)
 
 ### Dependencies
 ```
