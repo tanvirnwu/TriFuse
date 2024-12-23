@@ -15,7 +15,7 @@
 
 ### LOLI Code is updated.
 
-### model will be uploaded soon.
+### Trained weights will be uploaded soon.
 
 ----------
 ### LoLI-Street Dataset
