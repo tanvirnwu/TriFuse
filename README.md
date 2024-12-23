@@ -1,5 +1,5 @@
 <h2 align="center"><strong><a href="https://accv2024.org/">Accepted in ACCV'24, Hanoi, Veitnam</a></strong></h2>
-<h1 align="center"><strong>LoLI-Street: Benchmarking Low-Light Image Enhancement and Beyond (<strong><a href="https://arxiv.org/abs/2410.09831">Download Paper</a>)</strong></h1>
+<h1 align="center"><strong>LoLI-Street: Benchmarking Low-Light Image Enhancement and Beyond (<strong><a href="https://openaccess.thecvf.com/content/ACCV2024/html/Islam_LoLI-Street_Benchmarking_Low-light_Image_Enhancement_and_Beyond_ACCV_2024_paper.html">Download Paper</a>)</strong></h1>
 
 
 <h4 align="center">Md Tanvir Islam<sup> 1</sup>, Inzamamul Alam<sup> 1</sup>, Simon S. Woo<sup> 1, *</sup>, Saeed Anwar<sup> 2</sup>, IK Hyun Lee<sup> 3</sup>, Khan Muhammad<sup> 1, *</sup></h4>
