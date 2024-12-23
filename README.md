@@ -19,7 +19,7 @@
 
 ----------
 ### LoLI-Street Dataset
-![](./assets/HazeSpace2M.jpg)
+![](./assets/Loli-street.jpg)
 ## Proposed: TriFuse
 ![](./assets/ProposedModel.jpg)
 
