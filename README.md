@@ -1,4 +1,4 @@
-<h2 align="center"><strong><a href="https://accv2024.org/">Published in ACCV'24, Hanoi, Veitnam</a></strong></h2>
+<h2 align="center"><strong><a href="https://accv2024.org/">Published: ACCV'24, Hanoi, Veitnam</a></strong></h2>
 <h1 align="center"><strong>LoLI-Street: Benchmarking Low-Light Image Enhancement and Beyond (<strong><a href="https://openaccess.thecvf.com/content/ACCV2024/html/Islam_LoLI-Street_Benchmarking_Low-light_Image_Enhancement_and_Beyond_ACCV_2024_paper.html">Download Paper</a>)</strong></h1>
 
 
