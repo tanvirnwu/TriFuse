@@ -28,6 +28,18 @@
 pip install -r requirements.txt
 ````
 
+### How to train?
+
+You need to modify datasets/dataset.py and configs/*.yml slightly for your environment, and then
+
+```
+python train.py  
+```
+How to test?
+```
+python evaluate.py
+```
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tanvirnwu&repo=HazeSpace2M&style=for-the-badge&label=Project%20Views)
 
