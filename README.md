@@ -5,7 +5,7 @@
 <h6 align="center">Md Tanvir Islam<sup> 1</sup>, Inzamamul Alam<sup> 1</sup>, Simon S. Woo<sup> 1, *</sup>, Saeed Anwar<sup> 2</sup>, IK Hyun Lee<sup> 3</sup>, Khan Muhammad<sup> 1, *</sup></h6>
 <h6 align="center">| 1. Sungkyunkwan University, South Korea | 2. The Australian National University, Australia | 3. Tech University of Korea, South Korea || *Corresponding Author |</h6>
 <br>
-
+----------
 ### NEWS 
 - Trained weights will be uploaded soon.
 - Proposed TriFuse model code is updated.
