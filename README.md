@@ -7,9 +7,9 @@
 <br>
 
 ### NEWS 
-- LOLI Code is updated.
 - Trained weights will be uploaded soon.
-- Dataset is uploaded online
+- Proposed TriFuse model code is updated.
+- Dataset is uploaded online.
   
 ----------
 ### Dataset Download
