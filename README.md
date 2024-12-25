@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ### How to train?
 
-You need to modify datasets/dataset.py and configs/*.yml slightly for your environment, and then
+You need to modify datasets/dataset.py and configs/*.yml slightly for your environment, and then:
 
 ```
 python train.py  
