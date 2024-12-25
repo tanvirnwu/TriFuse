@@ -6,15 +6,15 @@
 <h6 align="center">| 1. Sungkyunkwan University, South Korea | 2. The Australian National University, Australia | 3. Tech University of Korea, South Korea || *Corresponding Author |</h6>
 <br>
 
+### NEWS 
+- LOLI Code is updated.
+- Trained weights will be uploaded soon.
+- Dataset is uploaded online
+  
 ----------
 ### Dataset Download
 1. **Kaggle:** https://www.kaggle.com/datasets/tanvirnwu/loli-street-low-light-image-enhancement-of-street
 2. **Google Drive:** https://drive.google.com/file/d/1xfATFqrYvMU5a4eLJ5iMi7PVts1x3mmi/view?usp=sharing
-
-
-### LOLI Code is updated.
-
-### Trained weights will be uploaded soon.
 
 ----------
 ### LoLI-Street Dataset
