@@ -44,7 +44,7 @@ python evaluate.py
 
 ## Cite this Paper
 
-If you find our work useful in your research, please consider citing our paper:
+If you find our work useful in your research, please consider citing our paper and star ✨✨ this repository. Thank you!
 
 ```bibtex
 @InProceedings{Islam_2024_ACCV,
